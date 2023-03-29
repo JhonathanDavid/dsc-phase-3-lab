@@ -17,7 +17,7 @@ The goal of this lab is to build the following with that data set:
 
 ### Model Considerations Metrics (Recall)
 
-Recall is an important metric in evaluating our model. Recall pertains to the rate at which the model makes correct predictions about customer churning. Aided by a C Matrix- our goal is to minimize false negatives. Failure to identify a customer who is about to churn is more costly from a business persepective, than wrongly classyging a non-churning customer. A good successful model therefore should have an 85% recall at the very least. Precision and accuracy are also metrics to have in mind.
+Recall is an important metric in evaluating our model and this kind of problem. Recall pertains to the rate at which the model makes correct predictions about customer churning. Aided by a Confusion Matrix- our goal is to minimize false negatives. Recall is the best metric since failure to identify a customer who is about to churn is more costly from a business persepective, than wrongly classyfing a non-churning customer. A good successful model therefore should have a 80% - 85% recall at the very least. Precision and accuracy are also metrics to have in mind.
 
 ### Conclusion & Recommendations
 
