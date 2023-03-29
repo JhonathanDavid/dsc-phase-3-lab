@@ -1,4 +1,5 @@
-# Phase 3 Project SyriaTel-Churn-Predictive Modeling
+# Phase 3 Project SyriaTel Churn
+Predictive Modeling
 
 ![awesome](https://idsb.tmgrup.com.tr/ly/uploads/images/2020/06/05/39374.jpg)
 
