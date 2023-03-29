@@ -49,5 +49,5 @@ The business recommendation to Syria Tel includes:
 └── BusinessPresentation.pdf        <- pdf of business presentation
 └── Regression.png                  <- image sourced internally from notebook
 ```
-![image](https://user-images.githubusercontent.com/102439898/228536267-8d3f8926-d49f-4557-add4-8b517261c6cd.png)
+
 
