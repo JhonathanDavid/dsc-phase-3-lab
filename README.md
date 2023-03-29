@@ -1,7 +1,6 @@
 # Phase 3 Project SyriaTel-Churn-Predictive Modeling
 
-![awesome](https://seeklogo.com/images/S/Syriatel-logo-37F5D97989-seeklogo.com.png).
-
+[!awesome](https://idsb.tmgrup.com.tr/ly/uploads/images/2020/06/05/39374.jpg)
 
 ### Background
 As important to Telecommunications companies as it is to earn new customers to their services, is the need to retain current customers and preventing them from going to competitors. The act of leaving customers or loss of customers are referred to in this industry as "Churn", from a business perspective. The business would like to understand exactly what factors or situations contribute to churning, and most importantly, post identification of those factors, define precises strategic initiatives to retain customers. This project, therefore aims to help the business first in identifying the attributes and factors that cause the churn, and in turn, building models that can help the business predict it, so that in fact strategic business initiatives can be outlined for solution.
