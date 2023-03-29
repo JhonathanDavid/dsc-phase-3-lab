@@ -15,7 +15,7 @@ As important to Telecommunications companies as it is to earn new customers to t
 As important to Telecommunications companies as it is to earn new customers to their services, is the need to retain current customers and preventing them from going to competitors. The act of leaving customers or loss of customers are referred to in this industry as "Churn", from a business perspective. The business would like to understand exactly what factors or situations contribute to churning, and most importantly, post identification of those factors, define precises strategic initiatives to retain customers. This project, therefore aims to help the business first in identifying the attributes and factors that cause the churn, and in turn, building models that can help the business predict it, so that in fact strategic business initiatives can be outlined for solution.
 
 
-### The Data & Business Modeling Objectives
+### DataSet & Business Modeling Objectives
 The database is a kaggle available dataset called "bigml_59c28831336c6604c800002a.csv", holding 3,333 values. 
 The goal of this lab is to build the following with that data set: 
 1) Identifying important attributes or features that are key in predicting customer churn
