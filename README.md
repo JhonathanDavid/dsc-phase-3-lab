@@ -2,7 +2,7 @@
 
 SyriaTel-Churn-Predictive Modeling
 
-![awesome](https://seeklogo.com/images/S/Syriatel-logo-37F5D97989-seeklogo.com.png)
+![awesome](https://seeklogo.com/images/S/Syriatel-logo-37F5D97989-seeklogo.com.png). ![awesome] (https://www.nowvertical.com/static/e95a743064a9aaceff6e6be38da7ec45/c28c6/adobestock_435172782.webp).
 
 
 ### Background
