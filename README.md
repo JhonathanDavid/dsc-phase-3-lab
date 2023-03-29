@@ -1,5 +1,5 @@
-# Phase 3 Project SyriaTel -
-# Predictive Modeling - Telecommunications Company Customer Churn
+# Phase 3 Project : SyriaTel DataSet
+# Predictive Modeling for a Telecommunications Company Customer Churn
 
 ![awesome](https://images.sw.cdn.siemens.com/siemens-disw-assets/public/5On2CPXFPpWpiTstd3DJsB/hu-HU/5G-Solutions-hero-1280x720.jpg?w=500&fit=max&q=50&dpr=2&auto=format)
 
