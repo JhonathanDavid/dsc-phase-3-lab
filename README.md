@@ -3,6 +3,9 @@
 
 ![awesome](https://images.sw.cdn.siemens.com/siemens-disw-assets/public/5On2CPXFPpWpiTstd3DJsB/hu-HU/5G-Solutions-hero-1280x720.jpg?w=500&fit=max&q=50&dpr=2&auto=format)
 
+### Project Overview
+
+Syria Tel is a telecommunication company- mobile network- provider in Syria, founded in 2000. Using the DataSet holding Syria Tel Customer Churn information available on Kaggle, this project aims to build a best in class Machine Learning Algorithm, that can predict which and how many customers will churn based on the information available on the dataset
 
 ### Background
 As important to Telecommunications companies as it is to earn new customers to their services, is the need to retain current customers and preventing them from going to competitors. The act of leaving customers or loss of customers are referred to in this industry as "Churn", from a business perspective. The business would like to understand exactly what factors or situations contribute to churning, and most importantly, post identification of those factors, define precises strategic initiatives to retain customers. This project, therefore aims to help the business first in identifying the attributes and factors that cause the churn, and in turn, building models that can help the business predict it, so that in fact strategic business initiatives can be outlined for solution.
