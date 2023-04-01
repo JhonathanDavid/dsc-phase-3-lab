@@ -25,9 +25,11 @@ The goal of this lab is to build the following with that data set:
 
 Recall is an important metric in evaluating our model and this kind of problem. Recall pertains to the rate at which the model makes correct predictions about customer churning. Aided by a Confusion Matrix- our goal is to minimize false negatives. Recall is the best metric since failure to identify a customer who is about to churn is more costly from a business persepective, than wrongly classyfing a non-churning customer. A good successful model therefore should have a 80% - 85% recall at the very least. Precision and accuracy are also metrics to have in mind.
 
-### Conclusion & Recommendations
+### Business Conclusion & Recommendations
 
-According to our analysis, the most important features in predicting churn are :
+For Syria tel, customer service is a key differentiatior. Syria tel should focus on training programs to enhance this features that mostly need to reduce the number of minutes spent by a customer on the phone. Therefore effective communication training to customer service representatives is a key success factor. When a customer spends or makes 3 or more phone calls to customer service, this is an indication of higher churn. So providing customer incentives provided at the third call will be a recommendation.
+
+The most important features in predicting churn are :
 
 * The total number of minutes that the customer has done during the day
 * The total number of evenining minutes
@@ -36,9 +38,11 @@ According to our analysis, the most important features in predicting churn are :
 
 The business recommendation to Syria Tel includes:
 * For Syria tel, customer srvice is a key differentiatior. Syria tel should focus on training programs to enhance this features that mostly need to reduce the number of minutes spent by a customer on the phone. 
-* Effective communication training customer service representatives is a key success factor. When a customer spends a higher number of minutes on the phone, this is an indication of higher churn. Also the call charge rates should be looked into. 
-* A competition benchmark comparisson and a look into lowering the rates is also a factor in churning prevention.
+* Effective communication training customer service representatives is a key success factor. When a customer spends a higher number of minutes on the phone, this is an indication of higher churn. 
+* Providing customer incentives provided at the third call will be a recommendation.
 
+The modeling- next steps recommendations & conclusions
+The best performing model at a targeted level of 85% is not achieved by best model, however did a achieve a near 80%. There is still some overfitting, thus increasing the training data set should reduce the overfitting and improve performance. 
 
 ## Summary
 ```
