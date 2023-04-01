@@ -16,7 +16,7 @@ As important to Telecommunications companies as it is to earn new customers to t
 
 
 ### DataSet & Business Modeling Objectives
-The database is a kaggle available dataset called "bigml_59c28831336c6604c800002a.csv", holding 3,333 values. 
+The database is a kaggle available dataset called "bigml_59c28831336c6604c800002a.csv" relabeled in this presentation as "Customer_Churn.csv", holding 3,333 values. 
 The goal of this lab is to build the following with that data set: 
 1) Identifying important attributes or features that are key in predicting customer churn
 2) Building a model than can predict who will churn with a high level of accuracy
