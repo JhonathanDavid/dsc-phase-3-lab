@@ -39,7 +39,7 @@ The most important features in predicting churn are :
 The business recommendation to Syria Tel includes:
 * For Syria tel, customer srvice is a key differentiatior. Syria tel should focus on training programs to enhance this features that mostly need to reduce the number of minutes spent by a customer on the phone. 
 * Effective communication training customer service representatives is a key success factor. When a customer spends a higher number of minutes on the phone, this is an indication of higher churn. 
-* Providing customer incentives provided at the third call will be a recommendation.
+* Providing customer incentives provided at the third call 
 
 The modeling- next steps recommendations & conclusions
 The best performing model at a targeted level of 85% is not achieved by best model, however did a achieve a near 80%. There is still some overfitting, thus increasing the training data set should reduce the overfitting and improve performance. 
